@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/yasodaraniamam0120/Space%20Game%20-%20web/_apis/build/status/yasodaraniamam.ContosoAir?branchName=master)](https://dev.azure.com/yasodaraniamam0120/Space%20Game%20-%20web/_build/latest?definitionId=6&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
